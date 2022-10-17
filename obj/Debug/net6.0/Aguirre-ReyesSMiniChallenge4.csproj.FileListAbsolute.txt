@@ -1,0 +1,15 @@
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.exe
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.deps.json
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.runtimeconfig.json
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.dll
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\bin\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.pdb
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.csproj.AssemblyReference.cache
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.AssemblyInfoInputs.cache
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.AssemblyInfo.cs
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.csproj.CoreCompileInputs.cache
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.dll
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\refint\Aguirre-ReyesSMiniChallenge4.dll
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.pdb
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\Aguirre-ReyesSMiniChallenge4.genruntimeconfig.cache
+C:\Users\Reyes\Documents\GitChallenges\Aguirre-ReyesSMiniChallenge4\obj\Debug\net6.0\ref\Aguirre-ReyesSMiniChallenge4.dll
