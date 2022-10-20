@@ -22,7 +22,7 @@ int num2B = Convert.ToInt32(num2);
 if( num1A > num2B ){
     Console.WriteLine("The first number is greater than the second");
 }else{
-    Console.WriteLine("The first number is less than the first");
+    Console.WriteLine("The first number is less than the second number");
 }
 
 Console.WriteLine("Lets try another example to see if the first number is greater than or equal to the second number");

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Reyes\\Documents\\GitChallenges\\Aguirre-ReyesSMiniChallenge4\\Aguirre-ReyesSMiniChallenge4.csproj",
+      "projectUniqueName": "C:\\Users\\Reyes\\Documents\\GitRepository\\Aguirre-ReyesSMiniChallenge4\\Aguirre-ReyesSMiniChallenge4.csproj",
       "projectName": "Aguirre-ReyesSMiniChallenge4",
-      "projectPath": "C:\\Users\\Reyes\\Documents\\GitChallenges\\Aguirre-ReyesSMiniChallenge4\\Aguirre-ReyesSMiniChallenge4.csproj",
+      "projectPath": "C:\\Users\\Reyes\\Documents\\GitRepository\\Aguirre-ReyesSMiniChallenge4\\Aguirre-ReyesSMiniChallenge4.csproj",
       "packagesPath": "C:\\Users\\Reyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Reyes\\Documents\\GitChallenges\\Aguirre-ReyesSMiniChallenge4\\obj\\",
+      "outputPath": "C:\\Users\\Reyes\\Documents\\GitRepository\\Aguirre-ReyesSMiniChallenge4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Reyes\\AppData\\Roaming\\NuGet\\NuGet.Config"
